@@ -1,4 +1,4 @@
-# # Surfs Up!
+# Surfs Up!
 
 ![images/surfs-up.jpeg](images/surfs-up.jpeg)
 
